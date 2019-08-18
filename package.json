@@ -1,6 +1,6 @@
 {
   "name": "externalip",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "get your external ip base on `curlmyip.com`",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "alsotang <alsotang@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "superagent": "^4.1.0"
+    "superagent": "^5.1.0"
   },
   "devDependencies": {
     "mocha": "^1.20.1",
